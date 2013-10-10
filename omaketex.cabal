@@ -13,11 +13,13 @@ copyright:           (c) Hiromi ISHII 2013
 category:            Text
 build-type:          Simple
 cabal-version:       >=1.10
+
+homepage:            https://github.com/pcapriotti/omaketex
+bug-reports:         https://github.com/pcapriotti/omaketex/issues
+
 source-repository head
   Type: git
   Location: git://github.com/konn/omaketex.git
-homepage:            https://github.com/pcapriotti/omaketex
-bug-reports:         https://github.com/pcapriotti/omaketex/issues
 
 executable omaketex
   main-is:             omaketex.hs
